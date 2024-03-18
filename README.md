@@ -1,2 +1,2 @@
-# new-gen-furniture
+# desixdeco
 A Furniture catalog website.
